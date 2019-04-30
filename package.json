@@ -1,0 +1,19 @@
+{
+  "name": "nodeboiler",
+  "version": "1.0.0",
+  "description": "starter for node project",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ALee1303/nodeboiler.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ALee1303/nodeboiler/issues"
+  },
+  "homepage": "https://github.com/ALee1303/nodeboiler#readme"
+}
