@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/ALee1303/nodeboiler/issues"
   },
-  "homepage": "https://github.com/ALee1303/nodeboiler#readme"
+  "homepage": "https://github.com/ALee1303/nodeboiler#readme",
+  "devDependencies": {
+    "webpack": "^4.30.0",
+    "webpack-cli": "^3.3.1"
+  }
 }
